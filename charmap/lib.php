@@ -46,7 +46,7 @@ function atto_charmap_strings_for_js() {
             'imacron_caps',
             'omacron_caps',
             'umacron_caps',
-            'stabby',
+            'interrobang',
             'insertcharacter',
             'nobreakspace',
             'ampersand',

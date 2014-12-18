@@ -56,7 +56,7 @@ var COMPONENTNAME = 'atto_charmap',
         ['&#298;', '&#298;',  true, 'imacron_caps'],
         ['&#332;', '&#332;',  true, 'omacron_caps'],
         ['&#362;', '&#362;',  true, 'umacron_caps'],
-        ['&dagger;', '&#8224;',  true, 'stabby'],
+        ['&#8253;', '&#8253;',  true, 'interrobang'],
         // others
         ['&nbsp;',    '&#160;',  true, 'nobreakspace'],
         ['&amp;',     '&#38;',   true, 'ampersand'],
